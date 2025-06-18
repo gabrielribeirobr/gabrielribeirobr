@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Gabriel Ribeiro!</h1>
 
 <p align="center">
-Front-End Developer focused on building modern, responsive, and functional interfaces.
+Front-End Developer focused on building modern, responsive and functional interfaces.
 </p>
 
 ---
@@ -9,9 +9,9 @@ Front-End Developer focused on building modern, responsive, and functional inter
 ## 🚀 About Me
 
 - 💻 Passionate about technology since the age of 15  
-- 🎯 Looking for my **first opportunity as a Front-End Developer**
+- 🎯 Looking for my **first opportunity as a Front-end Developer**
 - 📚 Studying and practicing daily through personal projects
-- 🧠 Current stack: **HTML, CSS, JavaScript, Git**
+- 🧠 Current stack: **HTML, CSS, JavaScript, Sass, Conventional commits, Mobile first, Git**
 - ✨ Also learning: **React and API integration**
 - 🕒 Available for junior or internship positions
 
