@@ -43,3 +43,11 @@ Each one includes a description, tech stack, and a live preview link when availa
 ---
 
 🔍 I'm always learning and ready to grow. Thanks for visiting my profile!
+
+---
+
+<div>
+<a href="https://github.com/gabrielribeirobr">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribeirobr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielribeirobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
